@@ -1,3 +1,3 @@
-# htsic_website
+# htsiic_website
 
-How to Survive in Introductory Calculus website
+How To Survive In Introductory Calculus website

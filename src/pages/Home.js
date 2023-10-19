@@ -211,7 +211,7 @@ export default function Index() {
 			<footer className="py-8 bg-gray-800">
 				<div className="container mx-auto px-8">
 					<p className="text-center text-white text-sm font-barlow">
-						© 2021 Math Book Showcase. All rights reserved.
+						© 2023 How To Survive In Introductory Calculus. All rights reserved.
 					</p>
 				</div>
 			</footer>
