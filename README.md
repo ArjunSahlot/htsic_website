@@ -1,3 +1,3 @@
-# htsicab_website
+# htsic_website
 
 Website for a math book
