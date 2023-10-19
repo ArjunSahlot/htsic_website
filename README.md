@@ -1,3 +1,3 @@
 # htsic_website
 
-Website for a math book
+How to Survive in Introductory Calculus website
