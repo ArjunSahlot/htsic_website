@@ -134,6 +134,79 @@ export default function Index() {
 						</div>
 					</div>
 				</section>
+				<section className="bg-white py-16">
+					<div className="container mx-auto px-8 font-raleway">
+						<h2 className="text-4xl font-bold mb-8">Chapters</h2>
+						<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+							<div className="bg-gray-100 rounded-lg p-8">
+								<div className="flex items-center mb-4">
+									<i className="fas fa-graduation-cap text-2xl text-blue-600 mr-4"></i>
+									<div>
+										<h3 className="text-gray-800 font-bold">Chapter 1: Introduction to Algebra</h3>
+									</div>
+								</div>
+								<p className="text-gray-700">
+									Learn the basics of algebra, including variables, equations, and inequalities.
+								</p>
+							</div>
+							<div className="bg-gray-100 rounded-lg p-8">
+								<div className="flex items-center mb-4">
+									<i className="fas fa-shapes text-2xl text-blue-600 mr-4"></i>
+									<div>
+										<h3 className="text-gray-800 font-bold">Chapter 2: Geometry</h3>
+									</div>
+								</div>
+								<p className="text-gray-700">
+									Explore the world of shapes and angles, and learn how to solve geometric problems.
+								</p>
+							</div>
+							<div className="bg-gray-100 rounded-lg p-8">
+								<div className="flex items-center mb-4">
+									<i className="fas fa-calculator text-2xl text-blue-600 mr-4"></i>
+									<div>
+										<h3 className="text-gray-800 font-bold">Chapter 3: Calculus</h3>
+									</div>
+								</div>
+								<p className="text-gray-700">
+									Discover the fundamentals of calculus, including limits, derivatives, and integrals.
+								</p>
+							</div>
+							<div className="bg-gray-100 rounded-lg p-8">
+								<div className="flex items-center mb-4">
+									<i className="fas fa-chart-bar text-2xl text-blue-600 mr-4"></i>
+									<div>
+										<h3 className="text-gray-800 font-bold">Chapter 4: Statistics</h3>
+									</div>
+								</div>
+								<p className="text-gray-700">
+									Learn how to analyze and interpret data using statistical techniques.
+								</p>
+							</div>
+							<div className="bg-gray-100 rounded-lg p-8">
+								<div className="flex items-center mb-4">
+									<i className="fas fa-money-bill-wave text-2xl text-blue-600 mr-4"></i>
+									<div>
+										<h3 className="text-gray-800 font-bold">Chapter 5: Financial Mathematics</h3>
+									</div>
+								</div>
+								<p className="text-gray-700">
+									Explore the math behind banking, investments, and personal finance.
+								</p>
+							</div>
+							<div className="bg-gray-100 rounded-lg p-8">
+								<div className="flex items-center mb-4">
+									<i className="fas fa-globe-americas text-2xl text-blue-600 mr-4"></i>
+									<div>
+										<h3 className="text-gray-800 font-bold">Chapter 6: Trigonometry</h3>
+									</div>
+								</div>
+								<p className="text-gray-700">
+									Discover the connections between angles and triangles in this study of trigonometry.
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
 			</main>
 			<footer className="py-8 bg-gray-800">
 				<div className="container mx-auto px-8">
